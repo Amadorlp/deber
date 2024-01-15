@@ -1,8 +1,8 @@
 {
   "users":[
-{"id":1,"name":"Amado Luguaña","username":"AMLuguaña","email":"amado.www@gmail.com","image":"https://static6.depositphotos.com/1100968/645/i/950/depositphotos_6455974-stock-photo-pathway-in-the-autumn-forest.jpg",
- {"id":2,"name":"Micaela","username":"Mk","email":"micaela.www@gmail.com","image":"https://static6.depositphotos.com/1100968/645/i/950/depositphotos_6455974-stock-photo-pathway-in-the-autumn-forest.jpg",
-  {"id":3,"name":"Ayala David","username":"AD","email":"david.www@gmail.com","image":"https://static6.depositphotos.com/1100968/645/i/950/depositphotos_6455974-stock-photo-pathway-in-the-autumn-forest.jpg"
+{"id":1,"name":"Amado Luguaña","username":"AMLuguaña","email":"amado.www@gmail.com","image":"https://static6.depositphotos.com/1100968/645/i/950/depositphotos_6455974-stock-photo-pathway-in-the-autumn-forest.jpg"},
+ {"id":2,"name":"Micaela","username":"Mk","email":"micaela.www@gmail.com","image":"https://static6.depositphotos.com/1100968/645/i/950/depositphotos_6455974-stock-photo-pathway-in-the-autumn-forest.jpg"},
+  {"id":3,"name":"Ayala David","username":"AD","email":"david.www@gmail.com","image":"https://static6.depositphotos.com/1100968/645/i/950/depositphotos_6455974-stock-photo-pathway-in-the-autumn-forest.jpg"}
   ],
   "posts": [
     { "id": 1, "title": "¿porque adoptar animales?","body":"piensas que es importante adoptar y porque...." , "userId":1 },
