@@ -7,7 +7,7 @@
   "posts": [
     { "id": 1, "title": "¿porque adoptar animales?","body":"piensas que es importante adoptar y porque...." , "userId":1 },
     { "id": 2, "title": "¿porque adoptar animales?","body":"piensas que es importante adoptar y porque...." , "userId":2 },
-    { "id": 3, "title": "¿porque adoptar animales?","body":"piensas que es importante adoptar y porque...." , "userId":3 },
+    { "id": 3, "title": "¿porque adoptar animales?","body":"piensas que es importante adoptar y porque...." , "userId":3 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
